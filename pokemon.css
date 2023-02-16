@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Oxanium', cursive;
+}
+body{
+    background-image: url("389247.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main{
+    background-image: url("Pokedex.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 50px;
+    border: 7px solid gray;
+    border-radius: 20px;
+}
+img.animated-gif{
+    width: 330px;
+    height: 334px;
+    margin-left: 30px;
+    margin-top: 155px;
+}  
+.black-box{ 
+    background-color: #182c2c; 
+    height: 376px;
+    width: 302px;
+    margin-left: 463px;
+    margin-top: -224px;
+    border-radius: 10px;
+} 
+.left-h2{
+    margin-left: 147px;
+    margin-top: -165px;
+}
+h3{
+    color: white;
+}
+input.search-bar{
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    background: #2f4141;
+    color: white;
+    font-family: inherit;
+    font-size: 105%;
+    width: calc(100% - 100px);
+    margin-left: 40px;
+    margin-top: 10px;
+}
+button{
+    border: none;
+    height: 2.5em;
+    width: 2.5em;
+    outline: none;
+    background: transparent;
+    color: white;
+}
+.ten{
+    margin-left: 40px;
+}
+.loai{
+    margin-left: 200px;
+    margin-top: -81px;
+}
+.nang{
+    margin-left: 200px;
+}
+.cao{
+    margin-left: 40px;
+    margin-top: -80px;
+}
+.thongtin{
+    margin-left: 40px;
+}
+.pokeball{
+    height: 90px;
+    width: 100px;
+    margin-left: -220px;
+    margin-top: -100px;
+}
